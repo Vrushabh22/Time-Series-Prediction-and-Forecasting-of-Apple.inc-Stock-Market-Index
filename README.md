@@ -10,7 +10,7 @@ the future performance of Apple Inc.'s stock. This analysis aims to demonstrate 
 The historical stock market index data for Apple. from [Yahoo Finance]([https://finance.yahoo.com/](https://finance.yahoo.com/quote/AAPL/history?p=AAPL)https://finance.yahoo.com/quote/AAPL/history?p=AAPL). The dataset consists of stock market data for a company over a period of weeks, starting from March 27, 2017, and ending on April 28, 2023. The dataset contains information such as the date, opening price, highest price, lowest price, closing price, adjusted closing price, and volume of
 stocks traded for each week. The data was collected and processed to obtain weekly average values of the open, high, low, close, adjusted close, and volume. The input data consisted of single CSV files:
 
-- data.csv
+- data.csv(320 records) 
   
 Information about files
 
