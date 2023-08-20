@@ -7,4 +7,4 @@ the future performance of Apple Inc.'s stock.
 
 # Dataset Information: 
 
-The histotical stock market index data for Apple. from Yahoo Finance! [https://finance.yahoo.com/quote/AAPL/history?p=AAPL].
+The historical stock market index data for Apple. from [finance.yahoo.com](https://finance.yahoo.com/)https://finance.yahoo.com/
